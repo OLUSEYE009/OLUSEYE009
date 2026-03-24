@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Oluseye (OLUSEYE009)
 
-💻 Developer (Currently Learning)  
+💻 Developer   
 🚀 Building scalable and creative digital experiences  
 📍 Lagos, Nigeria  
 
