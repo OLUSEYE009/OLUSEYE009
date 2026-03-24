@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:020617&height=180&section=header&text=Seye%20(OLUSEYE)&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:020617&height=180&section=header&text=Oluseye%20(OLUSEYE009)&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- INTRO -->
