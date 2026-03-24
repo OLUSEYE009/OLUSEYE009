@@ -1,10 +1,9 @@
-<!-- HEADER BANNER -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:020617&height=180&section=header&text=Oluseye%20(OLUSEYE009)&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- INTRO -->
-<h2 align="center">Developer (Currently Learning)</h2>
+<h2 align="center">Developer</h2>
 <p align="center">
 Building scalable and creative digital experiences<br>
 Lagos, Nigeria
@@ -12,7 +11,6 @@ Lagos, Nigeria
 
 ---
 
-<!-- ABOUT -->
 <h3>
   <img src="https://skillicons.dev/icons?i=notion" width="22"/> About Me
 </h3>
@@ -25,7 +23,6 @@ Lagos, Nigeria
 
 ---
 
-<!-- TECH STACK -->
 <h3>
   <img src="https://skillicons.dev/icons?i=github" width="22"/> Tech Stack
 </h3>
@@ -36,7 +33,6 @@ Lagos, Nigeria
 
 ---
 
-<!-- STATS -->
 <h3>
   <img src="https://skillicons.dev/icons?i=github" width="22"/> GitHub Stats
 </h3>
@@ -51,7 +47,6 @@ Lagos, Nigeria
 
 ---
 
-<!-- PROJECTS -->
 <h3>
   <img src="https://skillicons.dev/icons?i=vercel" width="22"/> Featured Projects
 </h3>
@@ -65,7 +60,6 @@ Lagos, Nigeria
 
 ---
 
-<!-- CONNECT -->
 <h3>
   <img src="https://skillicons.dev/icons?i=linkedin" width="22"/> Connect
 </h3>
@@ -81,7 +75,7 @@ Lagos, Nigeria
 
 ---
 
-<!-- QUOTE -->
+
 <h3>
   <img src="https://skillicons.dev/icons?i=stackoverflow" width="22"/> Dev Quote
 </h3>
@@ -93,7 +87,6 @@ Lagos, Nigeria
 
 ---
 
-<!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=120&section=footer"/>
 </p>
