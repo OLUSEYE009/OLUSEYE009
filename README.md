@@ -16,9 +16,9 @@ Lagos, Nigeria
 </h3>
 
 <ul>
-  <li>Currently learning and improving development skills</li>
+  <li>Always improving development skills</li>
   <li>Focused on real-world projects</li>
-  <li>Goal: Full-stack developer</li>
+  <li>Goal: Be The Best</li>
 </ul>
 
 ---
